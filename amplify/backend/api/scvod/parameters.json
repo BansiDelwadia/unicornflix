@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "scvod",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authvod05e69e31",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

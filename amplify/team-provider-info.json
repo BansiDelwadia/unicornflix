@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-vod-dev-181540-authRole",
+      "UnauthRoleArn": "arn:aws:iam::128222158613:role/amplify-vod-dev-181540-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::128222158613:role/amplify-vod-dev-181540-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-vod-dev-181540-deployment",
+      "UnauthRoleName": "amplify-vod-dev-181540-unauthRole",
+      "StackName": "amplify-vod-dev-181540",
+      "StackId": "arn:aws:cloudformation:us-west-2:128222158613:stack/amplify-vod-dev-181540/e52e33e0-6b9d-11eb-96c9-06f8f4f5ef27",
+      "AmplifyAppId": "d2yjpxuhqk9vc7"
+    },
+    "categories": {
+      "auth": {
+        "vod05e69e31": {}
+      },
+      "video": {
+        "SCVOD": {
+          "s3UUID": "qy4skxdd"
+        }
+      }
+    }
+  }
+}
