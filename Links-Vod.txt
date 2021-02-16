@@ -1,0 +1,20 @@
+GraphQL endpoint: https://hxkf24xxkrdynffou5zi7z6k4a.appsync-api.us-west-2.amazonaws.com/graphql
+
+
+
+Video on Demand:
+
+Input Storage bucket:
+scvod-dev-input-qy4skxdd
+
+Output URL for content:
+https://scvod-dev-output-qy4skxdd.s3.us-west-2.amazonaws.com
+
+
+Video on Demand:
+
+Input Storage bucket:
+scvod-dev-input-qy4skxdd
+
+Output URL for content:
+https://scvod-dev-output-qy4skxdd.s3.us-west-2.amazonaws.com
